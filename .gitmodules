@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "educineq"]
-	path = educineq
-	url = https://github.com/cran/educineq
 [submodule "GB2group"]
 	path = GB2group
 	url = https://github.com/cran/GB2group
+[submodule "educineq"]
+	path = educineq
+	url = https://github.com/cran/educineq
